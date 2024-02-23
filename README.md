@@ -10,6 +10,8 @@
 
 -  GitHub以太网文件 https://github.com/alexforencich/verilog-ethernet/issues
 
+-  基于以太网的音频传输 https://doc.embedfire.com/fpga/altera/ep4ce10_pro/zh/latest/code/enet_voide.html
+
 ## python
 
 - python转Verilog  https://blog.csdn.net/jjinl/article/details/123116969（myhdl学习笔记全套）
