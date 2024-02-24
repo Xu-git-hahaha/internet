@@ -22,3 +22,6 @@
 - 一个简单的fifo verilog代码（含tb）：https://github.com/ChinaRyan666/PDS_IP_Set/tree/main/ip_fifo（跑仿真我没跑出来，感觉是缺少了一个library）
 - fifo原理介绍：https://blog.csdn.net/apple_53311083/article/details/132378996
 - https://www.cnblogs.com/DoreenLiu/p/17348480.html
+
+## fft
+- fft（2048点）https://github.com/ZipCPU/dblclockfft/blob/master/rtl/README.md（这里好像还可以自定义生成任意fft的verilog）
