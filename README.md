@@ -21,3 +21,4 @@
 - ip核的设置：https://blog.csdn.net/Ryansweet716/article/details/133987410?spm=1001.2014.3001.5506
 - 一个简单的fifo verilog代码（含tb）：https://github.com/ChinaRyan666/PDS_IP_Set/tree/main/ip_fifo（跑仿真我没跑出来，感觉是缺少了一个library）
 - fifo原理介绍：https://blog.csdn.net/apple_53311083/article/details/132378996
+- https://www.cnblogs.com/DoreenLiu/p/17348480.html
