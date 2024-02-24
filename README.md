@@ -17,5 +17,5 @@
 
 - python转Verilog  https://blog.csdn.net/jjinl/article/details/123116969（myhdl学习笔记全套）
 
-
-
+## fifo
+- ip核的设置：https://blog.csdn.net/Ryansweet716/article/details/133987410?spm=1001.2014.3001.5506
